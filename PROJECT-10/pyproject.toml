@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "project-10"
+version = "0.1.0"
+description = "TP 02 : Flask, Poetry et Tailwind CSS - 41 étapes"
+authors = ["Utilisateur"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+flask = "2.3.3"
+openai = "0.27.10"
+python-dotenv = "1.0.0"
